@@ -1,0 +1,66 @@
+.first {
+	position:relative;left:-500px;
+}
+
+.second {
+	position:relative;left:-450px;
+}
+
+.third {
+	position:relative;left:-470px;
+}
+
+.para1{
+	position: relative; top:-70px;
+	position: relative; right: -20px;
+	border-width: thin;
+	border-style: solid;
+	border-color: #D46F6A;
+	width: 1000px;
+}
+
+.para2{
+	position: relative; top:-70px;
+	position: relative; right: -20px;
+	border-width: thin;
+	border-style: solid;
+	border-color: #92BDC9;
+	width: 1000px;
+}
+
+.para3{
+	position: relative; top:-70px;
+	position: relative; right: -20px;
+	border-width: thin;
+	border-style: solid;
+	border-color: #F3B900;
+	width: 1000px;
+}
+
+
+.para1:hover {
+	background-color: rgba(255, 214, 213,0.3);
+}
+
+.para2:hover {
+	background-color: rgba(194, 222, 185,0.3);
+}
+
+.para3:hover {
+	background-color: rgba(255, 237, 182,0.3);
+}
+
+.cycle{
+	position: relative; top: -210px;
+	position: relative;left: -70px;
+}
+
+.hospital{
+	position: relative; top: -230px;
+	position: relative;left: -70px;
+}
+
+.chopsticks{
+	position: relative; top: -210px;
+	position: relative;left: -70px;
+}

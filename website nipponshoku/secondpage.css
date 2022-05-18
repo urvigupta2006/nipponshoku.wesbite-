@@ -1,0 +1,98 @@
+.food{
+	border-style: solid;
+	border-color: lightskyblue;
+	border-width: thick;
+}
+
+.thething{
+	padding: 20px;
+}
+
+h3  {
+	color: #468B78;
+	font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.theh3s{
+	padding: 2px;
+}
+
+.h31 {
+	text-decoration: underline;
+}
+
+hr {
+	border-color: #FFFBCC;
+	border-style: double;
+	border-width: medium;
+}
+
+.hr1{
+	position: relative; top: -50px;
+}
+
+.hr2{
+	position: relative; top: -60px;
+}
+
+h2 {
+	text-align: center;
+	position: relative; top: -60px;
+	font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+
+.one{
+	padding-right: 40px;
+	padding-left: 40px;
+}
+
+
+.two{
+	padding-right: 40px;
+}
+
+.three{
+	padding-right:50px;
+}
+
+.thename1{
+	text-align: left;
+	position: relative; right: -50px;
+	color: black;
+	text-decoration: underline;
+}
+.thename2{
+	text-align: center;
+	position: relative; left: -200px;
+	position: relative; top: -40px;
+	color: black;
+	text-decoration: underline;
+}
+.thename3{
+	text-align: center;
+	position: relative; right: -150px;
+	position: relative; top: -80px;
+	color: black;
+	text-decoration: underline;
+}
+.thename4{
+	text-align: right;
+	position: relative;left: -53px;
+	position: relative; top: -120px;
+	color: black;
+	text-decoration: underline;
+}
+
+.blah {
+	position: relative; top: -150px;
+}
+
+.thenames{
+	position: relative; top: -50px;
+}
+
